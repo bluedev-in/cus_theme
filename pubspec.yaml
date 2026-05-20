@@ -1,6 +1,6 @@
 name: cus_theme
 description: "A customizable Flutter theme package with light/dark modes, color presets, typography, spacing, and dynamic theme switching."
-version: 1.8.1
+version: 1.8.2
 homepage: https://bluedev.in/
 repository: https://github.com/bluedev-in/cus_theme
 issue_tracker: https://github.com/bluedev-in/cus_theme/issues
