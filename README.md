@@ -344,7 +344,7 @@ Your support helps keep this project active and maintained. Thank you!
 
 ## Additional information
 
-- For a complete example, see the [example](https://github.com/KANAGARAJ-M/cus_theme/tree/main/example) directory.
+- For a complete example, see the [example](https://github.com/bluedev-in/cus_theme/tree/main/example) directory.
 - This package is licensed under the Apache-2.0 License.
 - Contributions are welcome! Please submit a Pull Request or open an issue.
 
